@@ -4,6 +4,7 @@
     labtechconsulting.com
     labtechsoftware.com
     msdn.microsoft.com/powershell
+    Module is customised by Avijit Dutta
 
 
 .DESCRIPTION
@@ -1806,4 +1807,3 @@ Function Rename-PLTAddRemove{
 }#End Function Rename-PLTAddRemove
 
 #endregion Functions
-rein
